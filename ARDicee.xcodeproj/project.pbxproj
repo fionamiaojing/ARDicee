@@ -57,9 +57,9 @@
 			isa = PBXGroup;
 			children = (
 				BA635944205C8A0200AA1BE7 /* AppDelegate.swift */,
-				BA635946205C8A0200AA1BE7 /* art.scnassets */,
 				BA635948205C8A0200AA1BE7 /* ViewController.swift */,
 				BA63594A205C8A0200AA1BE7 /* Main.storyboard */,
+				BA635946205C8A0200AA1BE7 /* art.scnassets */,
 				BA63594D205C8A0200AA1BE7 /* Assets.xcassets */,
 				BA63594F205C8A0200AA1BE7 /* LaunchScreen.storyboard */,
 				BA635952205C8A0200AA1BE7 /* Info.plist */,
@@ -279,7 +279,9 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = XJL4955ABH;
 				INFOPLIST_FILE = ARDicee/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.miaomiao.ARDicee;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -293,7 +295,9 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = XJL4955ABH;
 				INFOPLIST_FILE = ARDicee/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.miaomiao.ARDicee;
 				PRODUCT_NAME = "$(TARGET_NAME)";
